@@ -5,7 +5,7 @@
 ###   引用方式：
    在对应的build.gradle中的dependencies中添加：
    ```
-   implementation 'com.github.bosion-l:Retrofit:1.0'
+   implementation 'com.github.bosion-l:Retrofit:1.1.0'
    ```
    在对应Project下的build.gradle中添加：
    ```
